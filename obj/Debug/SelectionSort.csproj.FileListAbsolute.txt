@@ -1,0 +1,8 @@
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+D:\Simplilearn classes\Practice Projects\Section8\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
